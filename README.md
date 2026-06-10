@@ -45,13 +45,13 @@ Cette approche renforce mon intérêt pour un domaine qui nécessite une maîtri
 
   ## Objectif
 
-🎯 Alternance AIS – Administrateur d’Infrastructures Sécurisées (2026)
+🎯 Alternance AIS Administrateur d’Infrastructures Sécurisées (2026)
 
 # 💻 Welcome to my GitHub profile
 
 Passionate about computer science since my teenage years, I started with hardware assembly and software assistance for people around me, as well as system deployment using removable media. I later became self-taught before moving into professional training in systems and networks.
 
-In 2026, I will graduate with a TSSR diploma (Bac+2 level equivalent) and I am currently looking for a 12-month apprenticeship in the AIS program (Secure Infrastructure Administrator – Bac+3/+4 level), starting in September 2026.
+In 2026, I will graduate with a TSSR diploma (Bac+2 level equivalent) and I am currently looking for a 12-month apprenticeship in the AIS program (Secure Infrastructure Administrator Bac+3/+4 level), starting in September 2026.
 
 Alongside my studies, I am pursuing certifications and continuous self-learning in systems, networking, cybersecurity, and IoT technologies.
 
@@ -88,4 +88,4 @@ Here are some projects developed during my studies and personal work:
 
 ## Objective
 
-🎯 Apprenticeship AIS – Secure Infrastructure Administrator (2026)
+🎯 Apprenticeship AIS Secure Infrastructure Administrator (2026)
