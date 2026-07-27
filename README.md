@@ -45,7 +45,7 @@ Cette approche renforce mon intérêt pour un domaine qui nécessite une maîtri
 
   ## Objectif
 
-🎯 Travailler dans la sécurité informatique et m'expertiser en sécuerité IoT.
+🎯 Travailler dans la sécurité informatique et m'expertiser en sécurité IoT.
 
 # 💻 Welcome to my GitHub profile
 
@@ -88,4 +88,4 @@ Here are some projects developed during my studies and personal work:
 
 ## Objective
 
-🎯 Apprenticeship AIS Secure Infrastructure Administrator (2026)
+🎯 Work in cybersecurity and develop expertise in IoT security.
