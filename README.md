@@ -45,7 +45,7 @@ Cette approche renforce mon intérêt pour un domaine qui nécessite une maîtri
 
   ## Objectif
 
-🎯 Alternance AIS Administrateur d’Infrastructures Sécurisées (2026)
+🎯 Travailler dans la sécurité informatique et m'expertiser en sécuerité IoT.
 
 # 💻 Welcome to my GitHub profile
 
